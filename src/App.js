@@ -29,7 +29,6 @@ const App = () => {
         outerCursorRef={outerCursorRef}
       />
       <Navbar />
-      <Socials />
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='*' element={<NotFound />} />
