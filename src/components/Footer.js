@@ -16,7 +16,7 @@ const Footer = () => {
           to='#hero'
           className='link-item hover:text-white duration-500'
         >
-          Masud Rana Shawon
+          Andres Fernando Bordon
         </HashLink>
         . Crafted by yours truly
       </p>

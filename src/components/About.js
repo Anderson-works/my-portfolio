@@ -34,7 +34,7 @@ const About = () => {
             projects.
           </p>
           <p className='mt-10'>
-            As a MERN stack developer based in Bangladesh, I am committed to
+            As a MERN stack developer based in Argentina, I am committed to
             honing my skills and solving complex problems with logic. I approach
             every project with a dedication to honest innovation, aiming for a
             positive societal impact. My goal is to not only meet but exceed
